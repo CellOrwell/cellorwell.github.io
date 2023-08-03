@@ -52,5 +52,39 @@ An example for using base is: `<base target="_blank">`, which will default all h
 
 ### <u>Resources Used:</u>
 
-- [W3Schools (HTML Tutorial)](https://www.w3schools.com)
+- [W3Schools (HTML Tutorial)](https://www.w3schools.com/html/default.asp)
 - [Mozilla HTML Intro](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
+
+---
+
+## Day 2 - 03/08/2023
+
+### <u>Time Spent:</u>
+~1hr 30mins coding
+
+### <u>Thoughts:</u>
+
+Today, I worked on learning more complex CSS, including proper positioning, name conventions and animations.
+
+I was able to style my contacts page (please take into consideration I am NOT claiming to be a designer!)
+
+Here, I learnt the BEM naming convention for CSS classes and ids, (Blocks, Elements, Modifiers).
+
+I also learnt how to do CSS animations, and did a little bit of JS coding, in order to make the social media icons grow when you hover over the social tags.
+
+### <u> Tomorrow:</u>
+
+Tomorrow, I want to start the CSS for some of the other pages, and spend some more time on coding on this project, I'd say I want to spend ~3 hours coding.
+
+In the 3 hours, I want to finish the CSS for both the main page and the projects page.
+
+With the projects page, I want to have it so I have a tile of a photo of a project, then when you hover over the tile, some text shows which gives context to the project. (For now I will reference my Haskell Hutton project and then the rest can be placeholder text).
+
+### <u>Photo:</u>
+![Showcase of the Contacts page post CSS](/imgs/readmeimgs/day2css.png)
+
+### <u>Resources Used:</u>
+
+- [W3Schools (CSS Tutorial)](https://www.w3schools.com/css/default.asp)
+- [FreeCodeCamp BEM Blog](https://www.freecodecamp.org/news/css-naming-conventions-that-will-save-you-hours-of-debugging-35cea737d849/)
+- [FreeCodeCamp CSS Positioning Blog](https://www.freecodecamp.org/news/css-positioning-position-absolute-and-relative/)

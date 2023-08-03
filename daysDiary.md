@@ -44,8 +44,11 @@ I will also start brainstorming more projects which I will want to complete by t
     <dd>This is HTML which gives HTML elements more context, which makes it easier for the developer to understand </dd>
     <dt>Base header element</dt>
     <dd>Defines a base URL for the page and a default way for how a URL is opened when a hyperlink is clicked</dd>
-    <dd>E.g. `<base target="_blank">`
 </dl>
+
+Examples of Semantic HTML elements include: `<section>`, `<header`, `<footer>` and `<nav>` (These are the ones which I used today)
+
+An example for using base is: `<base target="_blank">`, which will default all hyperlinks on the page to open in a new tab.
 
 ### <u>Resources Used:</u>
 

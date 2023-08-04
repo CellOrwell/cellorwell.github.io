@@ -66,13 +66,15 @@ header nav a:hover {
 }
 
 hr {
-    width: 100%;
+    position:fixed;
+    width: 28%;
     margin-bottom: 10px;
 }
 
 #handle-box i {
     font-size: 40px;
     margin-bottom: 30px;
+    margin-top: 10px;
 }
 
 .enlargeLogo {
@@ -97,6 +99,8 @@ hr {
 #handle-box a {
     font-size: 40px;
     color: #285238;
+    padding-bottom: 30px;
+
 }
 
 #handle-box a:hover{

@@ -125,20 +125,65 @@ So... essentially, rewrite my code, but better. Ahhh, web development.
 
 ---
 
-## Day 4(ish) - 05/08/2023
+## Day 4(ish) - 05/08/2023 & 06/08/2023
 
 I had an unexpected shift change in my real job, meaning that I was too tired to do anything today. This won't count as a day
 
 ---
 
-## Day 4 - 06/08/2023
+## Day 4 - 07/08/2023
 
 ### <u>Time Spent:</u>
 
+~1/1:30hrs Spent Coding
+
 ### <u>Thoughts:</u>
+
+Today, I realised my Spiff code was so messy, and I really needed to streamline and practice how I interacted with APIs (where it's more secure & safe when deployed, as well as just understandable when looking at the code), so I decided I wanted to start learning about Node.js, and so started a side-side project using Node.js to make code which uses Spotify's API to get information on AJR's profile.
+
+My AJR project will be added on GitHub soon, but I am waiting till I sort out a way to store credentials securely.
 
 ### <u> Tomorrow:</u>
 
-### <u>Definitions:</u>
+I'm going to continue with my Node.js learning today, see how far I can get with that, OR see if I can streamline my spiff code, making it way more easier to understand, as well as using good security practices. A lot to learn!
 
 ### <u>Resources Used:</u>
+
+- [W3Schools Node.js Tutorial](https://www.w3schools.com/nodejs)
+- [Node.js](https://nodejs.org)
+
+---
+
+## Day 5(ish) - 08/08/2023
+
+Lost Motivation
+
+---
+
+## Day 5 - 09/08/2023
+
+### <u>Time Spent:</u>
+
+~8 hours coding
+
+### <u>Thoughts:</u>
+
+Honestly, I want to stop losing motivation so quickly with my projects. I find it happens a lot, and quite honestly it gets embarrassing, especially when it's for a challenge like this.
+
+So, today I rooted the problem to giving myself too many projects to work on, finishing maybe 50% of it, and then moving onto the next thing. So, I decided to start a project which I would be DEDICATED to till I finished it, a currency converter.
+
+And I finished it! It took me a long time, into the early hours of the 10th, BUT I finished it, and I'm proud of it. The design looks clean, the API is smooth. Yes, I could clean up the code, but it works! Cleaning up the code, right now, is a 'grunt work' task that I might finish tomorrow whilst watching Spiff's stream.
+
+I learnt so much too! I learnt how to have both frontend and backend files in one git repo, I learnt how express.js and axios work, I learnt about http-server, I learnt about HTML's select and option elements. 
+
+I'm really proud with how this turned out! You can go check out the code [here](https://github.com/CellOrwell/currency-converter). (The README will also be a grunt work task, where I will explain how to set up everything.)
+
+### <u> Tomorrow:</u>
+
+Tomorrow (or should I say today), I'm gonna start a to-do list full stack project. This will be big, but I'm excited. I'm want to start by running a mysql server off my Raspberry Pi, and then work on the backend, before eventually moving to the frontend. Mainly because I don't know how I want it to look yet.
+
+For this project, I want to learn Bootstrap (or other popular CSS frameworks), as well as React, Vue.js or Angular
+
+I also think I'm going to pick up my Haskell work again, so a little less time will be spent on this project today.
+
+---

@@ -187,3 +187,33 @@ For this project, I want to learn Bootstrap (or other popular CSS frameworks), a
 I also think I'm going to pick up my Haskell work again, so a little less time will be spent on this project today.
 
 ---
+
+## Day 6 - 10/08/2023
+
+### <u>Time Spent:</u>
+
+~ 1/1.5 hrs coding
+
+### <u>Thoughts:</u>
+
+Today, I spent the entire time setting up a local MySQL database on my Raspberry Pi, and then getting a simple script on my main PC to be able to connect to that database. I thought it was going to be straight forward, but it was so hard!! I had to worry about user permissions and user hostnames (which was the main part of the bugs). Eventually, I got it sorted and set up. At this point, I was too tired to get anything else on, and I had work in the morning, so I rested and went to bed.
+
+### <u> Tomorrow:</u>
+
+Tomorrow, after work, is going to be a focus on the Backend API. I want to get express setup and have endpoints to both receive and set information. Shouldn't take me too long since I'm familiar with express in the backend of my Currency Converter project. The new content I will be learning is making post requests with express, and also I'd like to know how to handle errors through express better. (and also sort out error handling for my DB connection).
+
+---
+
+## Day 7 - 11/08/2023
+
+### <u>Time Spent:</u>
+
+### <u>Thoughts:</u>
+
+### <u> Tomorrow:</u>
+
+### <u>Definitions:</u>
+
+### <u>Resources Used:</u>
+
+---

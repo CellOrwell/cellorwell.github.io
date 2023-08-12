@@ -204,7 +204,27 @@ Tomorrow, after work, is going to be a focus on the Backend API. I want to get e
 
 ---
 
-## Day 7 - 11/08/2023
+## Day 7.5 - 11/08/2023
+
+### <u>Time Spent:</u>
+
+~ 10/15 mins coding
+
+### <u>Thoughts:</u>
+
+Today, I set up a very brief template for the endpoints to my To-Do List API.
+
+I didn't learn much today, so I wanted to make this more a half day.
+
+My SQL server has also broken so I need to have a look, sort out permissions, etc.
+
+### <u> Tomorrow:</u>
+
+Tomorrow, I want to sort out my SQL permissions and then focus on getting my API get endpoints working at least. Getting some of the POST endpoints would be good. 
+
+---
+
+## Day 7.5 - 12/08/2023
 
 ### <u>Time Spent:</u>
 
@@ -215,5 +235,3 @@ Tomorrow, after work, is going to be a focus on the Backend API. I want to get e
 ### <u>Definitions:</u>
 
 ### <u>Resources Used:</u>
-
----

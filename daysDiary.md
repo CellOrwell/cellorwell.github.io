@@ -227,11 +227,45 @@ Tomorrow, I want to sort out my SQL permissions and then focus on getting my API
 ## Day 7.5 - 12/08/2023
 
 ### <u>Time Spent:</u>
+~ 30 mins coding
+### <u>Thoughts:</u>
+
+Work tired me out, so didn't spend too much time here today.
+
+I sorted out my SQL perms, and actually reduced them from giving toDoUser ALL perms to giving toDoUser only necessary perms. I'm really enjoying learning security measures I can take to make sure my code is secure.
+
+### <u> Tomorrow:</u>
+
+Tomorrow, I want to make a POST endpoint, where I can add a user to my database. I also want to make the endpoint returns more formal, as well as the console.log msgs.
+
+I also want to get an SQL backup set up on my Pi.
+
+---
+
+## Day 8 - 13/08/2023
+
+### <u>Time Spent:</u>
+~ 3 hrs coding
+### <u>Thoughts:</u>
+
+Today I wrote my POST endpoint, which was fun and straight forward to do! I decided to add bcrypt to my list of open source libraries to use, since it's one that's used for password hashing and salting(if that's the right word?)
+
+The SQL backup was a PAIN, though. I wrote a python script (will upload to github soon), and messed with a lot of Linux cmds and files, in order to make myself a backup system which will save a backup file of my SQL to-do list database in my Raspberry Pi, every Monday & Thursday at 5am. What's better? I made it so backups more than a month old are deleted, saving memory. How cool!
+
+### <u> Tomorrow:</u>
+
+Tomorrow, I want to finish my POST requests, and update my GET requests to use parameterized queries. I also want to sort out server-side input validation and sanitation. I also want to update my GET requests so they answer to a '/users/' endpoint (for example), where all users are returned. This requires me to think about what I am needing to access in my project.
+
+When these are done, I'm pretty sure that's it for my backend? That's interesting to think about, feels like I've already been working on it for ages.
+
+For now, though, bedtime.
+
+---
+
+## Day 9 - 14/08/2023
+
+### <u>Time Spent:</u>
 
 ### <u>Thoughts:</u>
 
 ### <u> Tomorrow:</u>
-
-### <u>Definitions:</u>
-
-### <u>Resources Used:</u>
